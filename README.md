@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=00D4FF&center=true&vCenter=true&width=580&lines=B.Tech+CSE+%40+VIT+Bhopal+%E2%80%A2+2027;Shipping+full+stack+and+AI+products+end+to+end;600%2B+DSA+problems+on+LeetCode%2C+CodeChef%2C+Codeforces;AWS+Certified+Solutions+Architect+Associate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=00D4FF&center=true&vCenter=true&width=580&lines=B.Tech+CSE+%40+VIT+Bhopal+%E2%80%A2+2027;Shipping+full+stack+and+AI+products+end+to+end;AWS+Certified+Solutions+Architect+Associate)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devaskswhy&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -106,20 +106,9 @@ Kafka driven packet analysis with a C++ capture engine and Python analysis worke
 
 ---
 
-## 📊 Impact
-
-- Cut manual review time **40%** across 200+ images daily (CovisionAI)
-- Raised prompt output consistency **35%** over baseline (CovisionAI)
-- Cut UI rendering time **30%** and improved SQL retrieval **25%** (LTTS)
-- Caught **12/12** seeded fraud rings with zero false positives, tested on **524,834** real transactions (RingSentinel)
-
----
-
-## ⚡ Competitive Programming & Achievements
+## 🏅 Achievements
 
 <div align="center">
-
-🏆 **600+ DSA problems solved** on LeetCode, CodeChef and Codeforces
 
 | | |
 |---|---|
