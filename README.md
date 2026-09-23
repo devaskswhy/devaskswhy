@@ -106,40 +106,10 @@ Kafka driven packet analysis with a C++ capture engine and Python analysis worke
 
 ---
 
-## 🏅 Achievements
-
-<div align="center">
-
-| | |
-|---|---|
-| 🏅 Expert Hire Mahakumbh Hackathon | 23rd / 400+ Teams (SevaMitra) |
-| 🌱 GirlScript Summer of Code 2024 | Open Source Contributor |
-| 🛠️ CISCO Community | Technical Team Member |
-
-</div>
-
 <div align="center">
 <img height="130" src="https://github-readme-stats.vercel.app/api?username=devaskswhy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true"/>
 <img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=devaskswhy&theme=tokyonight&hide_border=true"/>
 </div>
-
----
-
-## 🎓 Education
-
-**Vellore Institute of Technology, Bhopal** · B.Tech, Computer Science (Core) · CGPA 8.6/10 · 2023 to 2027
-
----
-
-## 🏆 Certifications
-
-<p align="center">
-
-🏅 **AWS Certified Solutions Architect Associate (SAA-C03)** · May 2026<br/>
-💻 **Google IT Support Professional Certificate** · January 2026<br/>
-☁️ **Oracle Certified AI Foundations Associate** · October 2025
-
-</p>
 
 ---
 
